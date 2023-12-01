@@ -32,3 +32,4 @@ Buckle up, as we've got an exciting journey ahead! Here's a sneak peek into what
 14. Discussing two types of uncertainty in machine learning (data uncertainty and model uncertainty).
 15. Examining why forecasting in an open system can be challenging (the turkey problem).
 
+This project was in the course of TensorFlow
